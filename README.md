@@ -12,7 +12,7 @@
  
 🔭 I’m currently on my 3º year studying Computer Science at **Universidade do Uminho**
  
-🌱 I’m currently learning **Python, Java, C, React**
+🌱 I’m currently learning **Unity, Java, C#, React**
 
 💬 How to reach me: 
    

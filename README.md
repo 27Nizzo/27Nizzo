@@ -27,22 +27,11 @@
  
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/Language-Portuguese-green?style=flat-square" alt="Language: Portuguese" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square" alt="Editor: VS Code" />
-  <img src="https://img.shields.io/badge/OS-WSL-yellowgreen?style=flat-square" alt="OS: WSL" />
-  <img src="https://img.shields.io/badge/Programming-Python-blue?style=flat-square" alt="Programming: Python" />
-  <img src="https://img.shields.io/badge/HTML5-Web-orange?style=flat-square" alt="HTML5: Web" />
-  <img src="https://img.shields.io/badge/CSS3-Style-blue?style=flat-square" alt="CSS3: Style" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=flat-square" alt="Database: MySQL" />
-  <img src="https://img.shields.io/badge/Markdown-Documentation-lightgrey?style=flat-square" alt="Markdown: Documentation" />
-  <img src="https://img.shields.io/badge/LaTeX-Document%20Preparation-blueviolet?style=flat-square" alt="LaTeX: Document Preparation" />
-  <img src="https://img.shields.io/badge/Haskell-Functional%20Programming-purple?style=flat-square" alt="Haskell: Functional Programming" />
-</div>
-
-
-
-
+<p align="center">
+      <a href="https://skillicons.dev">
+           <img src="https://skillicons.dev/icons?i=java,html,css,mysql,markdown,haskell,cs,vscode,ubuntu,unity,linux,next,tailwind,python,git,obsidian,cpp,discord,matlab,mongodb,notion&perline=7" />
+      </a>        
+</p>
 <br/>
 <hr/>
 

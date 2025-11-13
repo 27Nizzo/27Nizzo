@@ -14,7 +14,7 @@
  
 🌱 **I’m currently learning:**
 
-<img src="https://skillicons.dev/icons?i=go,javascript&perline=7" />
+<img src="https://skillicons.dev/icons?i=go,javascript,r&perline=7" />
 
 
 💬 How to reach me: 

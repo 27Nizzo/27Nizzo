@@ -12,11 +12,6 @@
  
 🔭 I’m currently on my 3º year studying Computer Science at **Universidade do Uminho**
  
-🌱 **I’m currently learning:**
-
-<img src="https://skillicons.dev/icons?i=go,javascript,r&perline=7" />
-
-
 💬 How to reach me: 
    
    <a href="https://instagram.com/27nizzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

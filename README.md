@@ -1,58 +1,60 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=27Nizzo.27Nizzo" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nizzo!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&height=70&lines=Hello+👋;+I'm+Afonso+Martins;Computer+Science+Student;" />
 </h1>
 
-<h3 align="center">I'm a CS student from Portugal</h3>
+<h3 align="center">Computer Science Student @ Universidade do Minho 🇵🇹</h3>
 
-<br/>
+---
+
+## 🚀 About Me
+
+🎓 3rd-year Computer Science student at **Universidade do Minho**  
+💡 Interested in software development, problem solving and system design  
+🏀 Played basketball competitively for 11 years  
+📍 Based in Portugal  
+
+---
+
+## 📫 Contact
 
 <div align="center">
- 
-🔭 I’m currently on my 3º year studying Computer Science at **Universidade do Uminho**
- 
-💬 How to reach me: 
-   
-   <a href="https://instagram.com/27nizzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:afonso.martins8282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="nizzo07"></a>
 
-⚡ Fun fact: **I played basketball for 11 years!**
+<a href="https://instagram.com/27nizzo" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
- </div>
- 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
-<br/>
+<a href="mailto:afonso.martins8282@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⚒️ Tech Stack
+
 <p align="center">
-      <a href="https://skillicons.dev">
-           <img src="https://skillicons.dev/icons?i=java,html,css,mysql,markdown,haskell,cs,vscode,ubuntu,unity,linux,next,tailwind,python,git,obsidian,cpp,discord,matlab,mongodb,notion&perline=7" />
-      </a>        
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,html,css,mysql,mongodb,haskell,matlab,next,tailwind,unity,linux,ubuntu,git,vscode,markdown,obsidian,notion&perline=7" />
 </p>
-<br/>
-<hr/>
 
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
+## 📊 GitHub Stats
 
 <div align="center">
-<a  target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=27Nizzo&show_icons=true&theme=react&border_radius=10" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Nizzo&layout=compact&theme=react&border_radius=10" />
+
 </div>
 
+---
 
-<br/>
-
-
-
+<div align="center">
+  <a href="https://ko-fi.com/" target="_blank">
+    <img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee" />
+  </a>
+</div>

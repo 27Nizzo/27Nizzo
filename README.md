@@ -11,6 +11,7 @@
 ## 🚀 About Me
 
 🎓 3rd-year Computer Science student at **Universidade do Minho**  
+💼 Currently working as **QA (Quality Assurance) at playSolana**  
 💡 Interested in software development, problem solving and system design  
 🏀 Played basketball competitively for 11 years  
 📍 Based in Portugal  
@@ -41,6 +42,8 @@
 
 ---
 
-## 📊 Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=27Nizzo&theme=react-dark&hide_border=true"/>
 
-<div align=center> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
+## 🎯 Career Goals
+
+Aspiring Software Engineer with a strong foundation in testing and system reliability, aiming to build scalable and robust systems.

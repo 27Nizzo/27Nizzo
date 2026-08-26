@@ -42,7 +42,6 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=27Nizzo&theme=react-dark&hide_border=true"/>
 
 ## 🎯 Career Goals
 

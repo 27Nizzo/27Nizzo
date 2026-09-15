@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 🎓 3rd-year Computer Science student at **Universidade do Minho**  
-💼 Currently working as **QA (Quality Assurance) at playSolana**  
+💼 Worked as **QA (Quality Assurance) at playSolana 2025-2026**  
 💡 Interested in software development, problem solving and system design  
 🏀 Played basketball competitively for 11 years  
 📍 Based in Portugal  
